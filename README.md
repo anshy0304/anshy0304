@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **ASP.NET**
 
-- 💬 Ask me about **react**
-
 - 📫 How to reach me **anshy030405@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
