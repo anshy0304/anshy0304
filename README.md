@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ansh Yadav</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-- 🌱 I’m currently learning **ASP.NET**
+- JAVA FSE
 
 - 📫 How to reach me **anshy030405@gmail.com**
 
